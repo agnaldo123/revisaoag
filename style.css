@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+}
+    p{
+        font-family: Arial;
+        font-size: 18px;
+        color: aliceblue;
+    }
+
+    h1{
+        font-family: Verdana;
+        font-size: 18px;
+        color: black;
+    }
+
+    h2{
+        font-family: Verdana;
+        font-size: 18px;
+        color: black;
+    }
+    img{
+        font-size: 12px;
+    }
