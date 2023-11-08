@@ -19,7 +19,9 @@ body{
         color: black;
     }
     img{
-        font-size: 24px;
+        width: 50%;
+        margin: auto;
+        display: block;
     }
 
     .cabecario {
