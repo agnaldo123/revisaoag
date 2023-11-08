@@ -22,7 +22,9 @@ body{
     }
     
     .cabecario {
-        font-size: 30px;
-        text-align: justify;
+        font-family: Verdana;
+        color: blue;
+        padding: 0;
+        margin: 0;
     }
     
