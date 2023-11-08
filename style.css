@@ -21,3 +21,9 @@ body{
     img{
         font-size: 24px;
     }
+
+    .cabecario {
+        font-size: 30px;
+        text-align: justify;
+    }
+    
