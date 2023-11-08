@@ -1,5 +1,6 @@
 body{
     background-color: aliceblue;
+    font-size: 30px;
 }
     p{
         font-family: Arial;
@@ -9,7 +10,7 @@ body{
 
     h1{
         font-family: Verdana;
-        font-size: 18px;
+        font-size: 50px;
         color: black;
     }
 
